@@ -1,2 +1,1 @@
-
-this is a read me file
+Tasks on variables & loops in C
