@@ -1,1 +1,1 @@
-this is a readme file
+Solutions to projects on pointers, arrays & strings
