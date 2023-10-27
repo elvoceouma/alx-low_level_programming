@@ -1,11 +1,5 @@
-#ifndef _MAIN_H
-#define _MAIN_H
-
-#include <stddef.h>
-#include <stdio.h>
-
-#ifdef DEBUG /*prints debug statements*/
-#endif
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
